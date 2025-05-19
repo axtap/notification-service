@@ -1,4 +1,4 @@
-package ru.astondevs.notificationservice.dto;
+package ru.astondevs.notification.dto;
 
 import lombok.Data;
 

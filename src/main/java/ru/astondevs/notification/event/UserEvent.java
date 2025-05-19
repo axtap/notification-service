@@ -1,4 +1,4 @@
-package ru.astondevs.notificationservice.event;
+package ru.astondevs.notification.event;
 
 
 import lombok.AllArgsConstructor;

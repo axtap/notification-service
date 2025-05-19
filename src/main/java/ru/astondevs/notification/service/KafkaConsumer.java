@@ -1,10 +1,10 @@
-package ru.astondevs.notificationservice.service;
+package ru.astondevs.notification.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
-import ru.astondevs.notificationservice.event.UserEvent;
-import ru.astondevs.notificationservice.event.UserEventType;
+import ru.astondevs.notification.event.UserEvent;
+import ru.astondevs.notification.event.UserEventType;
 
 @Service
 @RequiredArgsConstructor

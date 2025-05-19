@@ -1,4 +1,4 @@
-package ru.astondevs.notificationservice.service;
+package ru.astondevs.notification.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.mail.SimpleMailMessage;

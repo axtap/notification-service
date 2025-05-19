@@ -1,4 +1,4 @@
-package ru.astondevs.notificationservice;
+package ru.astondevs.notification;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
